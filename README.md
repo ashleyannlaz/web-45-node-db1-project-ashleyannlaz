@@ -1,7 +1,6 @@
 # Node DB1 Project Starter Code
 
 ## Introduction
-
 - Relational Databases
 - Writing Basic SQL Queries
 - Writing Basic Queries using Knex.js
